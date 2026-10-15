@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Djordje Jemuovic",
+        "age": 27,
+        "hight": 1.7,
+        "gender": "male"
+    },
+    {
+        "name": "Tomislav Nikolic",
+        "age": 31,
+        "hight": 1.81,
+        "gender": "male"
+    },
+    {
+        "name": "Nikola Jokic",
+        "age": 32,
+        "hight": 2.15,
+        "gender": "male"
+    },
+    {
+        "name": "Sofija Petrovic",
+        "age": 21,
+        "hight": 1.72,
+        "gender": "Female"
+    },
+    {
+        "name": "Sofija Petrovic",
+        "age": 21,
+        "hight": 1.72,
+        "gender": "Female"
+    }
+]
